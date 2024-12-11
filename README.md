@@ -9,7 +9,7 @@
 
 
 
-![image](https://github.com/huanraozhineng1/AUSpeech_code/Figure/fig1.png)
+![image](https://github.com/huanraozhineng1/AUSpeech_code/blob/master/Figure/fig1.png)
 
 ## Data Structure 
 *  Audio Data: Stored in .wav format (16 kHz sampling rate, mono-channel).
