@@ -16,11 +16,9 @@
 *  Ultrasound Imaging Data: Stored in .dcm format.
 *  Text Annotations: Stored in .lab and .TextGrid formats for precise alignment.
 
-## Basic Information
+## Other Technical Validation
 
-Built upon [MFA](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner), five-fold cross-validation experiments are conducted during the establishment of the NasalSeg dataset. Please refer to [the paper](https://www.nature.com/articles/s41597-024-04176-1) for more details.
-
-
+The alignment using the [MFA](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) on the normal subject data, followed by manual labeling checks for verification. For the patient data, we employ manual annotation for audio pronunciation labeling to ensure accuracy.
 ## Citation
 
 If you use our dataset, please consider citing:
